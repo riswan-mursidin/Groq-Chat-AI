@@ -30,7 +30,7 @@ Sebelum menjalankan aplikasi ini, pastikan Anda memiliki:
 
 ## Langkah-Langkah Menjalankan Aplikasi
 
-1. **Cloning Repository**: Clone repository ini menggunakan perintah `git clone https://github.com/riswan-mursidin/Groq-Chat-AIpp.git`.
+1. **Cloning Repository**: Clone repository ini menggunakan perintah `git clone https://github.com/riswan-mursidin/Groq-Chat-AI.git`.
 2. **Mengatur Variabel Lingkungan**: Buat file `.env` di direktori root project dan tambahkan variabel lingkungan `GROQ_API_KEY` dengan nilai API key Groq Anda.
 3. **Menjalankan Aplikasi**: Jalankan aplikasi menggunakan perintah `streamlit run app.py`.
 4. **Mengakses Aplikasi**: Akses aplikasi di `http://localhost:8501`.
