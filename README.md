@@ -54,4 +54,4 @@ Jika Anda memiliki pertanyaan atau ingin berkontribusi pada project ini, silakan
 
 ## Terkatir KOPI!
 
-https://saweria.co/galeriide
+- https://saweria.co/galeriide
