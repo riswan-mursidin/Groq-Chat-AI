@@ -52,6 +52,6 @@ Sebelum menjalankan aplikasi ini, pastikan Anda memiliki:
 
 Jika Anda memiliki pertanyaan atau ingin berkontribusi pada project ini, silakan hubungi saya melalui email riswan.mursidin@gmail.com atau melalui GitHub https://github.com/riswan-mursidin.
 
-## Terkatir KOPI!
+## Teraktir KOPI!
 
 - https://saweria.co/galeriide
